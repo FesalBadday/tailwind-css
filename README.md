@@ -17,5 +17,5 @@
  ---
 
 ## Attributions
-- [Jessica Watson](https://github.com/Enyorose) For helping understand Tailwind Framework.
+- [Jessica Watson](https://github.com/Enyorose) For helping me understand Tailwind Framework.
 - [Lorem Picsum](https://picsum.photos) For using random photos.
