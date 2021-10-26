@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-main {
+  @apply flex flex-wrap;
+}
+
+li {
+  @apply flex-1 m-2;
+}
+
+.nav-links {
+  @apply text-center block hover:border-gray-400 text-blue-400 hover:bg-gray-200 py-2 px-4 font-extrabold;
+}
+
+.section-container {
+  @apply bg-gray-200 text-center mt-24 w-11/12 m-auto;
+}
+
+.section-heading {
+  @apply text-blue-600 font-extrabold text-5xl;
+}
+
+.para-text {
+  @apply mt-10 w-2/4 m-auto;
+}
+
+.section-list {
+  @apply font-bold;
+}
+
+.section-img {
+  @apply flex justify-center flex-wrap gap-2 mt-24;
+}
+
+.section-img-hover {
+  @apply hover:opacity-50;
+}
