@@ -22446,6 +22446,11 @@ video {
   line-height: 1;
 }
 
+.text-5\.5xl {
+  font-size: 3.5rem;
+  line-height: 1;
+}
+
 .font-thin {
   font-weight: 100;
 }
@@ -32287,7 +32292,7 @@ li {
 }
 
 .section-heading {
-  font-size: 3rem;
+  font-size: 3.5rem;
   line-height: 1;
   font-weight: 800;
   --tw-text-opacity: 1;
@@ -54094,6 +54099,11 @@ li {
 
   .sm\:text-9xl {
     font-size: 8rem;
+    line-height: 1;
+  }
+
+  .sm\:text-5\.5xl {
+    font-size: 3.5rem;
     line-height: 1;
   }
 
@@ -85325,6 +85335,11 @@ li {
     line-height: 1;
   }
 
+  .md\:text-5\.5xl {
+    font-size: 3.5rem;
+    line-height: 1;
+  }
+
   .md\:font-thin {
     font-weight: 100;
   }
@@ -116550,6 +116565,11 @@ li {
 
   .lg\:text-9xl {
     font-size: 8rem;
+    line-height: 1;
+  }
+
+  .lg\:text-5\.5xl {
+    font-size: 3.5rem;
     line-height: 1;
   }
 
@@ -147781,6 +147801,11 @@ li {
     line-height: 1;
   }
 
+  .xl\:text-5\.5xl {
+    font-size: 3.5rem;
+    line-height: 1;
+  }
+
   .xl\:font-thin {
     font-weight: 100;
   }
@@ -179006,6 +179031,11 @@ li {
 
   .\32xl\:text-9xl {
     font-size: 8rem;
+    line-height: 1;
+  }
+
+  .\32xl\:text-5\.5xl {
+    font-size: 3.5rem;
     line-height: 1;
   }
 
