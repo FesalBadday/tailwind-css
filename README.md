@@ -1,4 +1,4 @@
-# CPNT 201 Assignment 5 - SASS and CSS Frameworks
+# SASS and CSS Frameworks
 
 ---
 
