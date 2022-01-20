@@ -4,9 +4,9 @@
 
 **Author :** Fesal Badday
 
-**Repo :** [Github Repo](https://github.com/FesalBadday/cpnt201-a5)
+**Repo :** [Github Repo](https://github.com/FesalBadday/tailwind-css)
 
-**Site :** [Github Pages](https://FesalBadday.github.io/cpnt201-a5)
+**Site :** [Github Pages](https://FesalBadday.github.io/tailwind-css)
 
 ---
 
